@@ -30,6 +30,11 @@
         text-align: justify;
        }
 
+       .form-label {
+        margin-bottom: 0.5rem;
+        display: flex;
+        justify-content: center;
+    
       
       
 
