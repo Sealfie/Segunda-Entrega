@@ -8,10 +8,10 @@
 
   
 
-    .topbotton{display: flex;justify-content: center; gap: 1rem; font-style: oblique; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; flex-wrap: wrap;}
+      .topbotton{display: flex;justify-content: center; gap: 1rem; font-style: oblique; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; flex-wrap: wrap;}
     
     
-    .container-fluid{    
+      .container-fluid{    
         display: flex;
         flex-wrap: inherit;
         align-items: center;
@@ -19,11 +19,16 @@
 
         
 
-        .list-group-item {
+      .list-group-item {
           
           text-align: center;
           
-      }
+        }
+
+      .fst-italic {
+        font-style: italic!important;
+        text-align: justify;
+       }
 
       
       
