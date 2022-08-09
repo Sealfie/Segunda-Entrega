@@ -32,13 +32,14 @@
 
 
        #dots{
-        width:146px;
-        margin:auto;
-        margin-top: 100px;
-        display: flex;
-        justify-content: center;
-      }
-      
+        display:flex;
+            width:146px;
+            margin:auto;
+            margin-top: 100px;
+            align-content: center;
+            justify-content: center;
+            flex-wrap: wrap;
+          }
       .dot{
         background-color: #7a5837;
         width: 20px;
